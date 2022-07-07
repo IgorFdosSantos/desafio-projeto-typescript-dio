@@ -1,0 +1,28 @@
+{
+  "name": "desafio-projeto-typescript-dio",
+  "version": "1.0.0",
+  "description": "Desafio de Projeto do \"Santander Bootcamp FullStack Developer\" da DIO  utilizando TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorF-Santos/desafio-projeto-typescript-dio.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "IgorF-Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorF-Santos/desafio-projeto-typescript-dio/issues"
+  },
+  "homepage": "https://github.com/IgorF-Santos/desafio-projeto-typescript-dio#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.4"
+  }
+}
